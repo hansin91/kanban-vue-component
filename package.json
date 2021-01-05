@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/hansin91/kanban-porto#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "vue": "^2.6.11",
     "vue-fragment": "^1.5.1",
